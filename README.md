@@ -1,7 +1,7 @@
 
-[AUTHOR](https://github.com/wagiminator)\
+[AUTHOR](https://github.com/wagiminator)
 
-[GITHUB](https://github.com/wagiminator/CH32V003-FM-Receiver)\
+[GITHUB](https://github.com/wagiminator/CH32V003-FM-Receiver)
 
 [OSHWLAB](https://oshwlab.com/wagiminator/ch32v003-fm-radio-receiver)
 
