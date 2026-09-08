@@ -1,5 +1,5 @@
 
-https://github.com/wagiminator
+[AUTHOR](https://github.com/wagiminator)
 
 https://github.com/wagiminator/CH32V003-FM-Receiver
 
